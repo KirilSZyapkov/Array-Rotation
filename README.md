@@ -1,4 +1,5 @@
 # Array-Rotation
+
 function arrayRotation(input, arg) {
     let num = Number(arg);
     let myArr = input;
